@@ -25,3 +25,5 @@ In order to test this algorithm I prepared a dataset containing a list of paragr
 The original dataset 'nietzsche.txt' is publicly availabe on Kaggle:
 
 https://www.kaggle.com/datasets/christopherlemke/philosophical-texts
+
+#### Note: It is recommended to run the notebook on Colab.
