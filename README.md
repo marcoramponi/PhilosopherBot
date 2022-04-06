@@ -1,7 +1,7 @@
 # PhilosopherBot
-The Python code in this notebook can be used to implement a baseline Philosophy Chatbot.
+The Python code in this notebook can be used to implement a baseline Chatbot aimed at reproducing philosophical conversation. It consists of various NLP components: a topic extractor (SpaCy, nltk) via NMF algorithm followed by a summarization pipeline (Transformer). Then a GPT2 model for text generation fine-tuned on questions extracted from texts by F. Nietzsche.
 
-It is a blend of two main components:
+More specifically, it is a blend of two main components:
 
 ### 1. Topic Extractor + Summarization
 The underlying database is a list of paragraphs of text data.
