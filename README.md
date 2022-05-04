@@ -18,7 +18,7 @@ The summarized output from step 1 is used as context to be passed to a question 
 
 https://github.com/marcoramponi/QuestionGenerator-GPT2
 
-In order to load this pre-trained model, a file 'pytorch_model.bin' must be in the current directory. Alternative, one can use another Seq2Seq generator and experiment with other models.
+In order to load this pre-trained model, a file 'pytorch_model.bin' must be in the current directory. Alternatively, one can use another Seq2Seq generator and experiment with other models.
 
 ### Dataset
 In order to test this algorithm I prepared a dataset containing a list of paragraphs from F. Nietzsche.
